@@ -1,55 +1,35 @@
 # Hi, I'm Christian 👋
 
-Linux enthusiast from Germany 🇩🇪. I tinker with immutable distros, GNOME and containers, and I like making my desktop work exactly the way I want.
+Linux enthusiast from Germany. I tinker with immutable distros, GNOME and containers, and maintain user packages for Arch Linux and Fedora.
 
-## 🔧 What I work on
+[![AUR](https://img.shields.io/badge/AUR-crian-1793D1?logo=archlinux&logoColor=white)](https://aur.archlinux.org/account/crian)
+[![Fedora COPR](https://img.shields.io/badge/COPR-crian-51A2DA?logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/crian/)
 
-- **[gweather-add-loc](https://github.com/crian/gweather-add-loc)**: add custom locations with arbitrary coordinates to GNOME Weather (GTK4/libadwaita app and Bash script)
-- **[thinkblue](https://github.com/crian/thinkblue)**: custom BlueBuild image (uBlue Silverblue) for my ThinkPad
-- **[dotfiles](https://github.com/crian/dotfiles-old)**: my (messy) shell and desktop configs
-- **[wallpapers](https://github.com/crian/wallpapers)**: a collection of wallpapers
+## Projects
 
-## 🖥️ My setup
+- [**thinkblue**](https://github.com/crian/thinkblue) – Custom BlueBuild image based on Fedora Silverblue / uBlue
+- [**gweather-add-loc**](https://github.com/crian/gweather-add-loc) – Custom location utility for GNOME Weather (Rust / GTK4 & Bash)
+- [**wallpapers**](https://github.com/crian/wallpapers) – Desktop wallpaper collection
+
+## Setup
 
 | Device | OS |
 | --- | --- |
-| Desktop PC | Fedora Linux |
-| ThinkPad T440p | Fedora Silverblue (uBlue, [custom image](https://github.com/crian/thinkblue)) |
-| GMKtec G5 Nano (mini PC) | Fedora Server |
+| Desktop PC | CachyOS |
+| ThinkPad | Fedora Silverblue (custom [thinkblue](https://github.com/crian/thinkblue) image) |
+| GMKtec G5 Nano | Fedora Server |
 
-## 🛠️ Stack & interests
+## Stats & Activity
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=crian&show_icons=true&theme=dark)
 
+## Stack
 
+![CachyOS](https://img.shields.io/badge/CachyOS-52B788?logo=cachyos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
-
-
-
-
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=white)
-
-
-
-
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
-
-
-
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-
-
-
-
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-4EAA25?logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-
-
-
-## 📫 Contact
-
-- GitHub: [@crian](https://github.com/crian)
-<!-- add Mastodon / blog / email here -->
-
-## 💡 Fun fact
-
-Most of my projects start with "I just want this one thing to work…"
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
