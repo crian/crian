@@ -2,7 +2,7 @@
 
 Linux enthusiast from Germany. I tinker with immutable distros, GNOME and containers, and maintain user packages for Arch Linux and Fedora.
 
-[![AUR](https://img.shields.io/badge/AUR-crian-1793D1?logo=archlinux&logoColor=white)](https://aur.archlinux.org/account/crian)
+[![AUR](https://img.shields.io/badge/AUR-crian-1793D1?logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?K=crian&SeB=m)
 [![Fedora COPR](https://img.shields.io/badge/COPR-crian-51A2DA?logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/crian/)
 
 ## Projects
