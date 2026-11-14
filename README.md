@@ -1,35 +1,26 @@
-# Hi, I'm Christian 👋
+<div align="center">
 
-Linux enthusiast from Germany. I tinker with immutable distros, GNOME and containers, and maintain user packages for Arch Linux and Fedora.
+<img src="assets/banner.jpg" alt="crian – Linux tinkerer from Germany" width="100%" />
 
-[![AUR](https://img.shields.io/badge/AUR-crian-1793D1?logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?K=crian&SeB=m)
-[![Fedora COPR](https://img.shields.io/badge/COPR-crian-51A2DA?logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/crian/)
+# Hi, I'm Christian
 
-## Projects
+**Linux tinkerer from Germany** — Arch on the desktop, Fedora Silverblue on the ThinkPad. I build my own immutable images with BlueBuild, write small GNOME utilities in Python, Rust and Bash, and maintain user packages for both ecosystems.
 
-- [**thinkblue**](https://github.com/crian/thinkblue) – Custom BlueBuild image based on Fedora Silverblue / uBlue
-- [**gweather-add-loc**](https://github.com/crian/gweather-add-loc) – Custom location utility for GNOME Weather (Rust / GTK4 & Bash)
-- [**wallpapers**](https://github.com/crian/wallpapers) – Desktop wallpaper collection
+[![AUR](https://img.shields.io/badge/AUR-crian-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)](https://aur.archlinux.org/packages?K=crian&SeB=m)
+[![COPR](https://img.shields.io/badge/COPR-crian-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)](https://copr.fedorainfracloud.org/coprs/crian/)
 
-## Setup
+</div>
 
-| Device | OS |
-| --- | --- |
-| Desktop PC | CachyOS |
-| ThinkPad | Fedora Silverblue (custom [thinkblue](https://github.com/crian/thinkblue) image) |
-| GMKtec G5 Nano | Fedora Server |
+---
 
-## Stats & Activity
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=crian&show_icons=true&theme=dark)
+## Stats
 
-## Stack
+![GitHub Stats Card](https://ghstats.dev/api/card?username=crian&theme=tokyonight&hide_title=true)
 
-![CachyOS](https://img.shields.io/badge/CachyOS-52B788?logo=cachyos&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
-![Fish Shell](https://img.shields.io/badge/Fish_Shell-4EAA25?logo=gnu-bash&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Top Languages](https://ghstats.dev/api/langs?username=crian&theme=tokyonight&layout=horizontal_list)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=crian&theme=tokyonight&days=30&width=495&height=80)
+
+</div>
