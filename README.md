@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="crian – Linux tinkerer from Germany" width="100%" />
+<img src="assets/banner.webp" alt="crian – Linux tinkerer from Germany" width="100%" />
 
 # Hi, I'm Christian
 
